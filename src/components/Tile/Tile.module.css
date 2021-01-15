@@ -1,0 +1,10 @@
+.Tile {
+    width: 7vw;
+    height: 7vw;
+    background-color: green;
+}
+
+.TileImg{
+    width: 100%;
+    height: 100%;
+}
